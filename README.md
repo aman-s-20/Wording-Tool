@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+![ScreenShots](https://github.com/aman-s-20/Wording-Tool/blob/master/Assets/Screenshot%20(242).png)
+![ScreenShots](https://github.com/aman-s-20/Wording-Tool/blob/master/Assets/Screenshot%20(243).png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
